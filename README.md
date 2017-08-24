@@ -1,0 +1,2 @@
+# SpringHibernate
+Hibernate mapping örnekleri
